@@ -6,9 +6,6 @@ import { HomeBanner } from '../components/HomeBanner'
 import { useTranslation } from 'react-i18next'
 import { Video } from '../components/Video'
 import { CardsService } from '../components/Cards/CardsService'
-import { CardBrand } from '../components/Cards/CardBrand'
-import Carousel from '../components/Carousel'
-import { SwiperSlide } from 'swiper/react'
 import { LogosContent } from '../components/LogosContent'
 import TripleSlider from '../components/TripleSlider'
 
@@ -57,21 +54,6 @@ export const Home = () => {
 
   const { t } = useTranslation();
 
-  const breakpoints = {
-    1200: {
-      slidesPerView: 3,
-      spaceBetween: 4
-    },
-    992: {
-      slidesPerView: 2,
-      spaceBetween: 2
-    },
-    768: {
-      slidesPerView: 1,
-      spaceBetween: 1
-    },
-  }
-
   return (
     <div className='theme-black'>
       <Navigation theme="black" />
@@ -80,14 +62,6 @@ export const Home = () => {
       <LogosContent />
       <Video src="https://pantherahub.com/videos/home-desktop.mp4" />
       <HomeBanner title={t("HomeBanner2.Title")}  text={t("HomeBanner2.Text")} hasAnimation={true} />
-      {/* <Carousel breakpoints={breakpoints} hasPagination={true}>
-        {
-          t('CardBrands', { returnObjects: true }).map(({ Title, Text }) => {
-            return <SwiperSlide> <CardBrand title={Title} text={Text} /> </SwiperSlide>
-          })
-
-        }
-      </Carousel> */}
       <TripleSlider />
       <ContactBackground theme="black" />
       <Footer />
