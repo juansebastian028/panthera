@@ -23,7 +23,7 @@ export const HubSolutions = () => {
                 <div data-aos="fade-left" data-aos-duration="1000" className='hub-solutions__content'>
                     <p className='hub-solutions__text'>{t("HubSolutions.Text")}</p>
                 </div>
-                <img data-aos="fade-up" data-aos-duration="1000" className='hub-solutions__img' src="https://e4s.center/wp-content/uploads/2023/10/1_mobile_image_.jpg"></img>
+                <img data-aos="fade-up" data-aos-duration="1000" alt="background" className='hub-solutions__img' src="https://e4s.center/wp-content/uploads/2023/10/1_mobile_image_.jpg"></img>
             </div>
         </div>
     )
