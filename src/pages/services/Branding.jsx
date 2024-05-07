@@ -8,9 +8,9 @@ import { SwiperSlide } from 'swiper/react'
 import { CardWhite } from '../../components/Cards/CardWhite'
 
 const imgList = [
-  "http://localhost:3000/assets/images/accedo1.png",
-  "http://localhost:3000/assets/images/alltruismo1.png",
-  "http://localhost:3000/assets/images/ya-te-ayudo1.png",
+  "../assets/images/accedo1.png",
+  "../assets/images/alltruismo1.png",
+  "../assets/images/ya-te-ayudo1.png",
 ];
 
 export const Branding = () => {
