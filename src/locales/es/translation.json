@@ -1,0 +1,218 @@
+{
+    "Home": "Inicio",
+    "Hub": "Hub",
+    "Contact": "Contacto",
+    "Services": "Servicios",
+    "ServicesNested": {
+        "SoftwareDevelopment": "Desarrollo de e-commerce y websites informativos",
+        "CustomSoftware": "Desarrollo de software a la medida y automatización",
+        "SoftwareOutsourcing": "Subcontratación de software",
+        "DigitalMarketing": "Estrategia de marketing orientada al crecimiento",
+        "Branding": "Diseño estratégico de marca"
+    },
+    "Footer": {
+        "Title": "ESCALA EL POTENCIAL DE TU EMPRESA",
+        "Terms": "Tratamiento de Datos Personales en los términos de la Política de Privacidad y Protección de Datos Personales. Aviso de privacidad y política de cookies"
+    },
+    "ContactBackground": {
+        "Title": "Tranformate \n digiltamente",
+        "Text": "Tenemos la solución en \n un solo lugar y a tu medida"
+    },
+    "ContactForm": {
+        "FullName": "Nombre y apellido",
+        "Company": "Nombre de empresa",
+        "Email": "Correo electrónico",
+        "Phone": "Teléfono",
+        "TreatmentPolicies": "Al hacer clic aquí, confirmas tu autorización conforme a los términos de uso y política de privacidad.",
+        "ButtonText": "Trabajemos"
+    },
+    "HomeBanner1": {
+        "Title": "Escala el potencial \n De tu empresa",
+        "Text": "Conoce el poder de panthera"
+    },
+    "HomeBanner2": {
+        "Title": "Conectamos contigo \n Y tus clientes.",
+        "Text": "No serás solo otro número; analizaremos tu negocio para ofrecerte una solución personalizada y llevarte hacia el éxito"
+    },
+    "ServicesDescriptions": {
+        "SoftwareDevelopment": "Construye tu negocio y comienza a facturar con una integración 360.",
+        "CustomSoftware": "Materializa tu idea de negocio o elimina ineficiencias operativas con una solución tecnológica a la medida.",
+        "SoftwareOutsourcing": "Reduce costo por equipos internos y agiliza actualizaciones en tu sistema.",
+        "DigitalMarketing": "Escala tu negocio y cumple tus objetivos con una estrategia basada en dato.",
+        "Branding": "Conceptualiza tu idea y posiciona tu propuesta de valor."
+    },
+    "SeeMoreBtn": "Ver más",
+    "CardBrands": [
+        {
+            "Title": "Efipay",
+            "Text": "Es una solución innovadora diseñada para simplificar agilizar los pagos en cualquier tipo de transa..."
+        },
+        {
+            "Title": "Ualá",
+            "Text": "Adaptaciones gráficas y audiovisuales para el público colombiano, se tomo la esencia de cada product..."
+        },
+        {
+            "Title": "Levely",
+            "Text": "Un sistema de gestión de aprendizaje que ayuda a crear una amplia gama de cursos, permitiendo accede..."
+        },
+        {
+            "Title": "Klipclub",
+            "Text": "Plataforma de transmisión digital para eventos relacionados con la música."
+        },
+        {
+            "Title": "Accedo",
+            "Text": "es un líder ágil y escalable en nearshore para las necesidades de soporte al cliente en inglés, espa..."
+        },
+        {
+            "Title": "Alltruismo",
+            "Text": "Plataforma de crowdfunding para organizaciones sin fines de lucro."
+        },
+        {
+            "Title": "Yateayudo",
+            "Text": "Plataforma de gestión de favores, donde puedes ayudar a los tuyos en Colombia pagando por sus medici..."
+        },
+        {
+            "Title": "Inglés De Una",
+            "Text": "Una aplicación web interactiva para el aprendizaje del inglés, con Moodle y SCORM 1.2, para escuelas..."
+        },
+        {
+            "Title": "Tutrok",
+            "Text": "Plataforma digital y aplicación móvil para el transporte de carga pesada."
+        }
+    ],
+    "OurTeam": {
+        "Title": "Nuestro equipo",
+        "Text": "Ellos vuelven realidad tu solución"
+    },
+    "HubBanner": {
+        "Title": "Maximizamos el valor de las organizaciones."
+    },
+    "HubSolutions": {
+        "Title": "Soluciones digitales integrales",
+        "Title2": "para maximizar tu valor",
+        "MissionTitle": "Nuestra misión",
+        "MissionText": "Es desarrollar e implementar soluciones digitales, integrales, que mejoren la sostenibilidad de los proyectos y maximicen el valor de nuestros clientes.",
+        "Text": "Impulsamos tu transformación digital, modernizamos tu operacion, escalamos tus procesos y consolidamos tu presencia en línea. ¡Dale a tu negocio la ventaja competitiva que necesita!"
+    },
+    "CustomSoftwareServices": [
+        {
+            "Title": "",
+            "Text": "Transformamos procesos con tecnología y metodologías ágiles, ofreciendo soluciones personalizadas que impulsan la efic"
+        },
+        {
+            "Title": "Incremento en Ventas Online",
+            "Text": "Las plataformas de e-commerce están diseñadas para facilitar el proceso de compra, lo que resulta en un aumento de las ventas."
+        },
+        {
+            "Title": "Visibilidad Mejorada",
+            "Text": "Con SEO y un diseño web responsivo, tu sitio web ganará visibilidad, atrayendo a más visitantes."
+        },
+        {
+            "Title": "Engagement del Usuario",
+            "Text": "A través de un diseño interactivo y contenido relevante, fomentamos la participación del usuario, mejorando las tasas de retención."
+        },
+        {
+            "Title": "Gestión Eficiente",
+            "Text": "Nuestros sistemas permiten una gestión fácil de contenido y productos, simplificando las operaciones diarias."
+        }
+    ],
+    "SoftwareDevelopmentTitle": "DESARROLLO DE E-COMMERCE Y WEBSITES INFORMATIVOS",
+    "SoftwareDevelopmentText": "Accede a expertos globales sin los costos de expansión interna. Desde desarrollo hasta soporte, garantizamos soluciones de calidad alineadas con tus objetivos. Escala según necesites, enfócate en tu negocio principal.",
+    "CustomSoftwareTitle": "DESARROLLO DE SOFTWARE A LA MEDIDA Y AUTOMATIZACIÓN",
+    "SoftwareOutsourcingTitle": "SUBCONTRATACIÓN DE SOFTWARE",
+    "DigitalMarketingTitle": "ESTRATEGIAS DE MARKETING ORIENTADAS AL CRECIMIENTO",
+    "BrandigTitle": "DISEÑO ESTRATÉGICO DE MARCA",
+    "DigitalMarketingServices": [
+        {
+            "Title": "",
+            "Text": "Una estrategia centrada en el crecimiento capitaliza oportunidades, optimizando canales digitales, personalizando comunicación y analizando datos para asegurar rendimiento óptimo y crecimiento sostenido en un mercado competitivo."
+        },
+        {
+            "Title": "Comprension y Segmentación del Cliente",
+            "Text": "Entender profundamente a la audiencia del nuestro cliente para personalizar los esfuerzos de marketing de manera efectiva."
+        },
+        {
+            "Title": "Enfoque Integrado en Múltiples Canales",
+            "Text": "Utilizar una combinación de canales digitales (SEM, SEO, Redes Sociales, Paid Media y landing pages) para un alcance integral."
+        },
+        {
+            "Title": "Toma de Decisiones Basada en Datos",
+            "Text": "Aprovechar el análisis de datos para informar la estrategia y medir el éxito."
+        }
+    ],
+    "BrandingServices": [
+        {
+            "Title": "",
+            "Text": "El proceso crea identidades de marca coherentes mediante estrategia y creatividad. Incluye análisis, diseño visual, comunicación y mantenimiento."
+        },
+        {
+            "Title": "Identidad Visual",
+            "Text": "Incluye elementos como el logotipo, la paleta de colores y la tipografía, que juntos crean una imagen coherente y reconocible de la marca."
+        },
+        {
+            "Title": "Consistencia y Coherencia de la Marca",
+            "Text": "Asegura que todos los aspectos de la marca, desde el marketing hasta el embalaje y la publicidad, mantengan un estilo y mensaje uniformes que reflejen los"
+        },
+        {
+            "Title": "Estrategia de Posicionamiento de Marca",
+            "Text": "Define cómo la marca se diferencia de sus competidores y cómo se posiciona en la mente de los consumidores. Incluye la propuesta de valor, el tono de voz"
+        }
+    ],
+    "SoftwareOutsourcingServices": [
+        {
+            "Title": "Acceso a Expertos Globales",
+            "Text": "Amplía tu equipo con talento especializado en tecnología sin el coste de contratación directa."
+        },
+        {
+            "Title": "Costo-Eficiencia",
+            "Text": "Reduce significativamente los costos operativos y de desarrollo al aprovechar la subcontratación."
+        },
+        {
+            "Title": "Flexibilidad y Escalabilidad",
+            "Text": "Ajusta fácilmente el tamaño de tu equipo de desarrollo según las necesidades del proyecto."
+        },
+        {
+            "Title": "Enfoque en el Core Business",
+            "Text": "Libera recursos internos para que puedas concentrarte en las áreas clave de tu negocio, mientras nosotros nos ocupamos del desarrollo tecnológico."
+        }
+    ],
+    "SoftwareDevelopmentServices": [
+        {
+            "Title": "",
+            "Text": "Diseñamos sitios web atractivos y optimizados para la conversión. Desde e-commerce hasta portales informativos, priorizamos la usabilidad y el SEO para destacar tu marca en línea."
+        },
+        {
+            "Title": "Incremento en Ventas Online",
+            "Text": "Las plataformas de e-commerce estan diseñadas para facilitar el proceso de compra, lo que resulta en un aumento de las ventas."
+        },
+        {
+            "Title": "Visibilidad Mejorada",
+            "Text": "Con SEO y un diseño web responsivo, tu sitio web ganará visibilidad, atrayendo a más visitantes."
+        },
+        {
+            "Title": "Engagement del Usuario",
+            "Text": "A traves de un diseño interactivo y contenido relevante, fomentamos la participación del usuario, mejorando las tasas de retención."
+        },
+        {
+            "Title": "Gestión Eficiente",
+            "Text": "Nuestros sistemas permiten una gestión fácil de contenido y productos, simplificando las operaciones diarias."
+        }
+    ],
+    "BlogBannerTitle": "Compartimos <br /> nuestras experiencias <br /> <strong> para aprender </strong> <br /> <strong>juntos</strong>",
+    "BlogBannerSearch": "Buscar articulo",
+    "Newsletter": {
+        "Title": "Registrate a nuestro newsletter <pink>WeThink</pink> by Panthera",
+        "Subtitle": "¡Suscribete a nuestro boletín y no te pierdas de nada!",
+        "Name": "Nombre",
+        "Email":"Correo electrónico",
+        "PrivacyPolicies": "He leído y acepto la <pink> Política de Privacidad </pink>",
+        "Btn": "Registrarme"
+    },
+    "CardBlog": {
+        "Date": "Jan 24, 2022 - Lectura 5 min",
+        "Title": "Titulo principal del articulo",
+        "Text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+        "Name": "Nombre completo",
+        "Position":"Cargo completo"
+    }
+}

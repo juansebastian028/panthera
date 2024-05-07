@@ -1,0 +1,73 @@
+.card-service {
+    color: $white-cloud;
+    width: 15%;
+    min-width: 240px;
+    position: relative;
+    z-index: 1;
+    aspect-ratio: 9/14;
+    margin: 1rem;
+    overflow: hidden;
+
+    &__img {
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: all linear .3s;
+        transition: transform .5s ease;
+    }
+
+    &:hover &__img {
+        filter: blur(5px);
+        transform: scale(1.2,1.2);
+    }
+
+    &__container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+        padding: 1rem;
+        flex-wrap: wrap;
+    }
+
+    &__content {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding: 1rem;
+    }
+
+    &__text {
+        transition: 200ms ease-in-out transform;
+        transform: translateX(110%);
+    }
+
+    &:hover &__text {
+        transform: translateX(0%);  
+    }
+
+    &__btn {
+        background-color: transparent;
+        border: $white-cloud solid .1rem;
+        text-decoration: none;
+        color: $white-cloud;
+        padding: .5rem;
+        border-radius: .5rem;
+    }
+
+    &__btn-container {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        padding: 1rem 1rem;
+    }
+
+    &__btn:hover {
+        background-color: $white-cloud;
+        color: $black-color;
+    }
+}

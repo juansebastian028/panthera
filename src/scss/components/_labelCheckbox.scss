@@ -1,0 +1,11 @@
+
+.label-checkbox {
+    margin: .5rem;
+    &--white {
+        color: $white-cloud;
+    }
+    
+    &--black {
+        color: $black-color;
+    }
+}

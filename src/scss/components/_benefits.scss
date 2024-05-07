@@ -1,0 +1,66 @@
+.benefits {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: end;
+    gap: 2rem;
+    margin: 2rem;
+
+    &__screen {
+        border: 1.8rem solid $black-color;
+        outline: .2rem solid $soft-gray-color;
+        border-radius: 1rem;
+        width: 600px;
+        height: 500px;
+        box-shadow: rgba(100, 100, 111, 0.5) 0px 7px 29px 0px;
+        background-image: url('../../../public/assets/images/screencapture-localhost-3000-2024-05-03-21_26_02.png');
+        background-size: 100% auto;
+        background-repeat: no-repeat;
+        border-radius: 2rem;
+        animation: translate-position-y 50s infinite linear alternate-reverse;
+    }
+
+    &__tabs {
+        max-width: 280px;
+
+        @media only screen and (max-width: 600px) {
+            max-width: 180px;
+        }
+    }
+
+    &__content {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__icons {
+        display: flex;
+        flex-direction: row;
+        padding-bottom: 1rem;
+    }
+
+    &__icon {
+        padding: 1rem;
+        font-size: 1.2rem;
+        cursor: pointer;
+        @media only screen and (max-width: 600px) {
+            font-size: 1rem;
+        }
+    }
+
+    &__icon--first {
+        padding-left: 0;
+        padding-right: 1rem;
+    }
+
+    @keyframes translate-position-y {
+        0% {
+            background-position-y: 100%;
+        }
+
+        100% {
+            background-position-y: 0%;
+        }
+    }
+}

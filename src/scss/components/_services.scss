@@ -1,0 +1,23 @@
+.service {
+    padding: 0 5rem;
+    color: $gray-color;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+    &__text {
+        font-size: 1.4rem;
+    }
+    
+    &__title {
+        font-size: 3rem;
+    
+        @media only screen and (max-width: 600px) {
+            font-size: 1.8rem;
+        }
+    }
+}
+
+

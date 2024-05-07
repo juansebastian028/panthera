@@ -1,0 +1,41 @@
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    &__container {
+        min-height: 700px;
+        width: 30%;
+        background-color: transparent;
+        border: $dark-blue-color solid .2rem;
+        border-radius: 1rem;
+        margin: 3rem;
+        padding: 2rem;
+
+        @media only screen and (max-width: 1200px) {
+            width: 70%;
+        }
+
+    }
+
+    &__checkboxes-container {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-gap: .8rem;
+        padding-bottom: 1rem;
+        margin-bottom: 1rem;
+
+        @media only screen and (max-width: 600px) {
+            grid-template-columns: 100%;
+        }
+
+    }
+
+    &__checkboxes-container--white {
+        border-bottom: $white-cloud solid .1rem;
+    }
+
+    &__checkboxes-container--black {
+        border-bottom: $black-color solid .1rem;
+    }
+}

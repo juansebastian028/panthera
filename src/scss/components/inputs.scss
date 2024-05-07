@@ -1,0 +1,48 @@
+.input-text {
+    background-color: transparent;
+    margin-bottom: .8rem;
+    padding: 1rem;
+    border: rgba(255, 255, 255, 0.8) solid .1rem;
+    border-radius: 8px;
+    &--white {
+        border: rgba(255, 255, 255, 0.8) solid .1rem;
+    }
+    
+    &--black {
+        border: $black-color solid .1rem;
+    }
+    
+    &:hover,
+    &:focus {
+        border-color: $pink-color;
+        outline: none;
+        caret-color: $pink-color;
+    }
+    
+    &--white:focus,
+    &--white:hover {
+        color: rgba(255, 255, 255, 0.8);
+    }
+    
+    &--black:focus,
+    &--black:hover {
+        color: $black-color;
+    }
+    
+    &:focus::placeholder {
+        color: transparent;
+    }
+    
+    &::placeholder {
+        font-size: .8rem;
+    }
+    
+    &--white::placeholder {
+        color: rgba(255, 255, 255, 0.8);
+    }
+    
+    &--black::placeholder {
+        color: $black-color;
+    }
+}
+

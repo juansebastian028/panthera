@@ -1,0 +1,38 @@
+.footer {
+    border-bottom: $pink-color 1rem solid;
+    background-color: $white-color;
+    &__title {
+        font-weight: 900;
+        font-size: 2rem;
+    }
+    &__border {
+        padding: 8rem 4rem;
+    }
+    
+    &__copyright {
+     color: $pink-color;
+    }
+    
+    &__social-icons {
+     color: $black-color;
+     padding: 0;
+     display: flex;
+     justify-content: flex-start;
+     align-items: center;
+    }
+    
+    &__social_icon {
+     color: $black-color;
+     padding: 1rem;
+     font-size: 1.2rem;
+    }
+    
+    &__social_icon--padding {
+     color: $black-color;
+     padding: 0 1rem 0 0;
+    }
+    
+    &__social_icon:hover {
+        color: $pink-color;
+    }
+}

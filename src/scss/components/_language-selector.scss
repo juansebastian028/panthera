@@ -1,0 +1,21 @@
+.lang-select {
+    border-radius: 50%;
+    padding: .8rem .1rem;
+    font-size: .9rem;
+    background-color: transparent;
+    font-weight: bold;
+    
+    &--black {
+        color: $white-cloud;
+        background-color: $black-color;
+    }
+    &--white {
+        color: $black-color;
+
+    }
+
+    &:focus {
+        outline: none;
+    }
+}
+

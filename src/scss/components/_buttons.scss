@@ -1,0 +1,15 @@
+.button {
+    color: $white-cloud;
+    background-color: $pink-color;
+    border: none;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem 0;
+    cursor: pointer;
+    
+    &:hover {
+        background-color: transparent;
+        border: $pink-color solid .1rem;
+        color: $pink-color;
+    }
+}

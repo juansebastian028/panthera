@@ -1,0 +1,60 @@
+.card-brand {
+    display: flex;
+    flex-direction: row;
+    width: 480px;
+    padding-bottom: 2rem; 
+    
+    @media screen and (max-width: 768px) {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__title {
+        color: $white-cloud;
+        margin: 0;
+    }
+
+    &__text {
+        color: $white-cloud;
+    }
+
+    &__img-container {
+        position: relative;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    &__content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 1rem;
+    }
+
+    &__content--hidden {
+        display: none;
+    }
+
+    &__img {
+        width: 200px;
+    }
+
+    &__img--blur {
+        filter: blur(5px);
+    }
+
+    &__btn {
+        background-color: transparent;
+        border: $soft-blue-color solid .1rem;
+        text-decoration: none;
+        color: $soft-blue-color;
+        padding: .5rem;
+        border-radius: .5rem;
+    }
+
+    &__btn:hover {
+        background-color: $white-cloud;
+        color: $black-color;
+    }
+}

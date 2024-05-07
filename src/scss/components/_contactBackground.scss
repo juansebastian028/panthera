@@ -1,0 +1,52 @@
+.contact-background {
+    background: url('../../../public/assets/images/vr-6770800_1280.png');
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: -50% 100%;
+    background-size: 70%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    color: $white-cloud;
+    position: relative;
+
+    &__container {
+        text-shadow:4px 3px 7px rgba(100, 100, 111, 0.8);
+    }
+
+    @media only screen and (max-width: 1200px) {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__container {
+        align-self: flex-end;
+        text-align: center;
+
+        @media only screen and (max-width: 1200px) {
+            align-self: center !important;
+        }
+
+    }
+
+    &__title {
+        font-size: 4rem;
+        text-transform: uppercase;
+        white-space: pre-line;
+        margin-bottom: 1rem;
+        
+        @media only screen and (max-width: 600px) {
+            font-size: 2rem;
+        }
+    }
+    
+    &__text {
+        font-size: 2rem;
+        white-space: pre-line;
+        margin: 0;
+
+        @media only screen and (max-width: 600px) {
+            font-size: 1rem;
+        }
+    }
+}

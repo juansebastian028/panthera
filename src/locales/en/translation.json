@@ -1,0 +1,218 @@
+{
+    "Home": "Home",
+    "Hub": "Hub",
+    "Contact": "Contact",
+    "Services": "Services",
+    "ServicesNested": {
+        "SoftwareDevelopment": "Development of e-commerce and informative websites",
+        "CustomSoftware": "Custom software development and automation",
+        "SoftwareOutsourcing": "Software outsourcing",
+        "DigitalMarketing": "Growth-oriented strategy and marketing",
+        "Branding": "Strategic brand design"
+    },
+    "Footer": {
+        "Title": "SCALE THE POTENTIAL OF YOUR COMPANY",
+        "Terms": "Processing of Personal Data in the terms of the Privacy Policy and Protection of Personal Data. Privacy notice and cookie policy"
+    },
+    "ContactBackground": {
+        "Title": "Transform \n your self digitally",
+        "Text": "We have a solution in one \n place and tailored to you!"
+    },
+    "ContactForm": {
+        "FullName": "Name and lastname",
+        "Company": "Company name",
+        "Email": "Email Address",
+        "Phone": "Phone",
+        "TreatmentPolicies": "By clicking here, you confirm your authorization in accordance with the  terms of use and privacy policy.",
+        "ButtonText": "Let's work"
+    },
+    "HomeBanner1": {
+        "Title": "Unleash Your \n Business Potential",
+        "Text": "Discover the power of Panthera"
+    },
+    "HomeBanner2": {
+        "Title": "We connect with you \n And your clients.",
+        "Text": "You won't be just another number; We will analyze your business to offer you a personalized solution and lead you to success"
+    },
+    "ServicesDescriptions": {
+        "SoftwareDevelopment": "Build your business and start invoicing with a 360 integration.",
+        "CustomSoftware": "Materialize your business idea or eliminate operational inefficiencies with a tailor-made technological solution.",
+        "SoftwareOutsourcing": "Reduce cost for internal teams and expedite updates to your system.",
+        "DigitalMarketing": "Scale your business and achieve your goals with a data-driven strategy.",
+        "Branding": "Conceptualize your idea and position your value proposition."
+    },
+    "SeeMoreBtn": "See more",
+    "CardBrands": [
+        {
+            "Title": "Efipay",
+            "Text": "It is an innovative solution designed to simplify and streamline payments in any type of transaction."
+        },
+        {
+            "Title": "Ualá",
+            "Text": "Graphic and audiovisual adaptations for the Colombian public, capturing the essence of each product."
+        },
+        {
+            "Title": "Levely",
+            "Text": "A learning management system that helps create a wide range of courses, allowing access..."
+        },
+        {
+            "Title": "Klipclub",
+            "Text": "Digital streaming platform for music-related events."
+        },
+        {
+            "Title": "Accedo",
+            "Text": "It is an agile and scalable leader in nearshore for customer support needs in English, Spanish..."
+        },
+        {
+            "Title": "Alltruismo",
+            "Text": "Crowdfunding platform for nonprofit organizations."
+        },
+        {
+            "Title": "Yateayudo",
+            "Text": "Favor management platform, where you can help your loved ones in Colombia by paying for their medica..."
+        },
+        {
+            "Title": "Inglés De Una",
+            "Text": "An interactive web application for learning English, with Moodle and SCORM 1.2, for schools..."
+        },
+        {
+            "Title": "Tutrok",
+            "Text": "Digital platform and mobile application for heavy cargo transportation."
+        }
+    ],
+    "OurTeam": {
+        "Title": "Our team",
+        "Text": "They make your solution a reality"
+    },
+    "HubBanner": {
+        "Title": "We maximize the value of organizations."
+    },
+    "HubSolutions": {
+        "Title": "Comprehensive Digital Solutions",
+        "Title2": "to Maximize Your Value",
+        "MissionTitle": "Our Mission",
+        "MissionText": "Is to develop and implement comprehensive digital solutions that enhance project sustainability and maximize the value of our clients.",
+        "Text": "We drive your digital transformation, modernize your operations, scale your processes, and consolidate your online presence. Give your business the competitive edge it needs!"
+    },
+    "CustomSoftwareServices": [
+        {
+            "Title": "",
+            "Text": "We transform processes with technology and agile methodologies, offering customized solutions that drive efficiency."
+        },
+        {
+            "Title": "Increase in Online Sales",
+            "Text": "E-commerce platforms are designed to facilitate the purchasing process, resulting in an increase in sales."
+        },
+        {
+            "Title": "Enhanced Visibility",
+            "Text": "With SEO and responsive web design, your website will gain visibility, attracting more visitors."
+        },
+        {
+            "Title": "User Engagement",
+            "Text": "Through interactive design and relevant content, we foster user engagement, improving retention rates."
+        },
+        {
+            "Title": "Efficient Management",
+            "Text": "Our systems enable easy management of content and products, simplifying daily operations."
+        }
+    ],
+    "SoftwareDevelopmentTitle": "DEVELOPMENT OF E-COMMERCE AND INFORMATIONAL WEBSITES",
+    "SoftwareDevelopmentText": "Access global experts without the costs of internal expansion. From development to support, we guarantee quality solutions aligned with your objectives. Scale as needed, focus on your core business.",
+    "CustomSoftwareTitle": "CUSTOM SOFTWARE DEVELOPMENT AND AUTOMATION",
+    "SoftwareOutsourcingTitle": "SOFTWARE OUTSOURCING",
+    "DigitalMarketingTitle": "GROWTH-ORIENTED MARKETING STRATEGIES",
+    "BrandigTitle": "STRATEGIC BRAND DESIGN",
+    "DigitalMarketingServices": [
+        {
+            "Title": "",
+            "Text": "A growth-focused strategy capitalizes on opportunities by optimizing digital channels, personalizing communication, and analyzing data to ensure optimal performance and sustained growth in a competitive market."
+        },
+        {
+            "Title": "Customer Understanding and Segmentation",
+            "Text": "Deeply understanding our client's audience to effectively personalize marketing efforts."
+        },
+        {
+            "Title": "Integrated Multichannel Approach",
+            "Text": "Utilizing a combination of digital channels (SEM, SEO, Social Media, Paid Media, and landing pages) for comprehensive outreach."
+        },
+        {
+            "Title": "Data-Driven Decision Making",
+            "Text": "Harnessing data analysis to inform strategy and measure success."
+        }
+    ],
+    "BrandingServices": [
+        {
+            "Title": "",
+            "Text": "The process creates consistent brand identities through strategy and creativity. It includes analysis, visual design, communication, and maintenance."
+        },
+        {
+            "Title": "Visual Identity",
+            "Text": "Includes elements such as the logo, color palette, and typography, which together create a coherent and recognizable brand image."
+        },
+        {
+            "Title": "Brand Consistency and Coherence",
+            "Text": "Ensures that all aspects of the brand, from marketing to packaging and advertising, maintain a consistent style and message that reflects the"
+        },
+        {
+            "Title": "Brand Positioning Strategy",
+            "Text": "Defines how the brand differentiates itself from its competitors and how it positions itself in the minds of consumers. Includes value proposition, tone of voice"
+        }
+    ],
+    "SoftwareOutsourcingServices": [
+        {
+            "Title": "Access to Global Experts",
+            "Text": "Expand your team with specialized technology talent without the cost of direct hiring."
+        },
+        {
+            "Title": "Cost Efficiency",
+            "Text": "Significantly reduce operational and development costs by leveraging outsourcing."
+        },
+        {
+            "Title": "Flexibility and Scalability",
+            "Text": "Easily adjust the size of your development team according to project needs."
+        },
+        {
+            "Title": "Focus on Core Business",
+            "Text": "Free up internal resources so you can focus on key areas of your business, while we take care of technological development."
+        }
+    ],
+    "SoftwareDevelopmentServices": [
+        {
+            "Title": "",
+            "Text": "We design attractive and conversion-optimized websites. From e-commerce to informational portals, we prioritize usability and SEO to highlight your brand online."
+        },
+        {
+            "Title": "Increased Online Sales",
+            "Text": "E-commerce platforms are designed to streamline the purchasing process, resulting in an increase in sales."
+        },
+        {
+            "Title": "Enhanced Visibility",
+            "Text": "With SEO and responsive web design, your website will gain visibility, attracting more visitors."
+        },
+        {
+            "Title": "User Engagement",
+            "Text": "Through interactive design and relevant content, we encourage user engagement, improving retention rates."
+        },
+        {
+            "Title": "Efficient Management",
+            "Text": "Our systems allow for easy content and product management, simplifying daily operations."
+        }
+    ],
+    "BlogBannerTitle": "We share <br /> our experiences <br /> <strong>to learn</strong> <br /> <strong>together</strong>",
+    "BlogBannerSearch": "Search article",
+    "Newsletter": {
+        "Title": "Subscribe to our newsletter <pink>WeThink</pink> by Panthera",
+        "Subtitle": "Subscribe to our newsletter and don't miss out!",
+        "Name": "Name",
+        "Email": "Email",
+        "PrivacyPolicies": "I have read and accept the <pink> Privacy Policy </pink>",
+        "Btn": "Sign me up"
+    },
+    "CardBlog": {
+        "Date": "Jan 24, 2022 - Reading 5 min",
+        "Title": "Main article text",
+        "Text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi non quis exercitationem culpa nesciunt nihil aut nostrum explicabo reprehenderit optio amet ab temporibus asperiores quasi cupiditate. Voluptatum ducimus voluptates voluptas?",
+        "Name": "Full name",
+        "Position":"Position"
+    }
+}
